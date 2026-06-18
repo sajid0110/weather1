@@ -1,5 +1,6 @@
 <?php include 'config.php'; ?>
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +13,7 @@
 
 <a href="create.php">Add Weather</a>
 <a href="search.php">Search</a>
-
+<a href="comment.php">Comment</a>
 <table>
 <tr>
     <th>City</th>
